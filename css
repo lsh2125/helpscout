@@ -1,0 +1,36 @@
+#docsSearch h1 {
+     font-family: ‘Istok-Web’, sans-serif;
+     color: #DCE2E1;
+}
+body {
+       font-family: 'Istok-Web', sans-serif;
+       color: #3F4C4C;
+}
+
+#docsSearch {
+	height: 200px;
+	background: url(https://wwwkiddomcodev.wpengine.com/wp-content/uploads/2022/02/Distance-Learning-Guide-Header2@2x-8.png) no-repeat center 100% / cover transparent;
+	border-bottom: none;
+	padding-top: 75px;
+	position: relative;
+	top: -1px;
+}
+#searchBar .search-query {
+	background: #DCE2E1;
+	border-color: transparent;
+	box-shadow: none;
+	color: #777;
+}
+#searchBar button {
+	background: #FF6252;
+	border-color: transparent;
+	color: #FFFFFF;
+}
+#searchBar button:hover {
+	background: #FF2A00;
+	border-color: transparent;
+	color: #FFFFFF;
+}
+
+
+
